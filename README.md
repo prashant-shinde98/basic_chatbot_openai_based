@@ -9,7 +9,7 @@ This repository contains a basic chatbot implementation using OpenAI's GPT-4 Min
 - **Simple Setup:** Easy to configure and extend for various use cases.
 
 
-  <img src="Screenshot 2025-01-08 103556.png" alt="Example Image" width="500" height="300">
+  <img src="Screenshot 2025-01-08 103556.png" alt="Example Image" width="500" height="700">
 
 
 ## Repository Link
