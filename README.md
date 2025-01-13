@@ -8,6 +8,10 @@ This repository contains a basic chatbot implementation using OpenAI's GPT-4 Min
 - **OpenAI API Integration:** Utilizes OpenAI's GPT-4 Mini model for natural language understanding and response generation.
 - **Simple Setup:** Easy to configure and extend for various use cases.
 
+
+  <img src="Screenshot 2025-01-08 103556.png" alt="Example Image" width="500" height="300">
+
+
 ## Repository Link
 
 [Basic Chatbot Repository](https://github.com/prashant-shinde98/basic_chatbot_openai_based)
